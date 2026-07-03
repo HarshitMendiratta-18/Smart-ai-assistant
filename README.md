@@ -1,5 +1,7 @@
 # CommuniSync AI: The Smart Neighborhood Operating System
 
+🚀 **Live Deployment App:** [https://communisync-ai.vercel.app](https://communisync-ai.vercel.app)
+
 CommuniSync AI is a modern, enterprise-ready smart community management SaaS application designed to digitize residential complexes, apartments, and gated societies. It integrates role-based dashboards, secure visitor transits, conflict-free calendars, and Retrieval-Augmented Generation (RAG) virtual assistant bots.
 
 ---
